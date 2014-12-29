@@ -1,0 +1,9 @@
+{
+  "name": "butt",
+  "version": "2.0.0",
+  "description": "If only there was a way to pass along a callback with exactly as many arguments as necessary.",
+  "main": "index.js",
+  "repository": "https://github.com/bevacqua/butt.git",
+  "author": "Nicolas Bevacqua <nicolasbevacqua@gmail.com> (http://bevacqua.io/)",
+  "license": "MIT"
+}
